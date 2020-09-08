@@ -1,0 +1,5 @@
+#SBA_results
+1 = -34 +56 +6 sgACC-FP
+2 = -30 -76 +8 sgACC-OC
+3 = -32 -54 +50 sgACC-SPL
+4 = -66 -30 +4 DLPFC-COC
